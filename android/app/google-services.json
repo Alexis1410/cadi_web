@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93516631475",
+    "project_id": "cadi-prod",
+    "storage_bucket": "cadi-prod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93516631475:android:1818bbd86a10d8df180fc6",
+        "android_client_info": {
+          "package_name": "com.example.cadi_admin_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHmlDniSkkBU25rJjNZe3VWY7LmLw8shM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93516631475:android:f9d65a7a70806e60180fc6",
+        "android_client_info": {
+          "package_name": "com.example.cadi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHmlDniSkkBU25rJjNZe3VWY7LmLw8shM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
